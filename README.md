@@ -1,2 +1,2 @@
 # language-converter
-Google language converter 
+Google language converter with PHP.
